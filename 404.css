@@ -1,0 +1,42 @@
+body{
+  background-color: #101020;
+  color:#e0e0e0;
+  font-family: "Lucida Console";
+}
+
+button{
+  font-family: "Lucida Console";
+  background-color: #202030;
+  color: #e0e0e0;
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+}
+
+h1{
+  font-size: 30px;
+  padding: 0vh;
+}
+
+button:hover{
+  background-color: #303040;
+}
+
+#content{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#canvas{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 0px;
+  border: 1px solid #e0e0e0 ;
+}
+
+p{
+  padding: 0px;
+}
